@@ -1,0 +1,19 @@
+# TechStyle .gitignore
+# TODO: this is incomplete — add more entries as needed
+
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.egg-info/
+dist/
